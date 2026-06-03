@@ -1,0 +1,4 @@
+Before sort: 42 17 93 5 68 
+After sort:  5 17 42 68 93 
+Sum = 225
+Program exited with return value 0.

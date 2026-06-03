@@ -1,0 +1,6 @@
+sum(1..10) = 55
+even: 2 4 6 8 10 
+do-while count = 5
+break at k = 3
+skip multiples of 3: 1 2 4 5 7 8 10 
+Program exited with return value 0.

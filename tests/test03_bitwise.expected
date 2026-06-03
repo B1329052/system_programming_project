@@ -1,0 +1,10 @@
+a & b  = 8
+a | b  = 14
+a ^ b  = 6
+a << 2 = 48
+b >> 1 = 5
+!0 = 1
+!5 = 0
+c && d = 0
+c || d = 1
+Program exited with return value 0.

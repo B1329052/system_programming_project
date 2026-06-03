@@ -1,0 +1,5 @@
+square(7) = 49
+add(3, 4) = 7
+max_of_three(5, 9, 2) = 9
+square(add(2,3)) = 25
+Program exited with return value 0.
